@@ -1,0 +1,15 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+/.idea/.idea.TaskDebugger/.idea/.idea.TaskDebugger.iml
+/.idea/.idea.TaskDebugger/.idea/contentModel.xml
+/.idea/.idea.TaskDebugger/.idea/encodings.xml
+/.idea/.idea.TaskDebugger/.idea/indexLayout.xml
+/.idea/.idea.TaskDebugger/.idea/misc.xml
+/.idea/.idea.TaskDebugger/.idea/modules.xml
+/.idea/.idea.TaskDebugger/.idea/inspectionProfiles/Project_Default.xml
+/.idea/.idea.TaskDebugger/.idea/projectSettingsUpdater.xml
+/.idea/.idea.TaskDebugger/.idea/vcs.xml
+/.idea/.idea.TaskDebugger/.idea/workspace.xml
